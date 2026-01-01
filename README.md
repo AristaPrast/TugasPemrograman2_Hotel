@@ -1,5 +1,5 @@
 # Create README.md inside extracted project and also provide a standalone copy for download.
-readme = Hotel Luviana — Sistem Informasi Pemesanan Hotel (PHP + MySQL)
+Hotel Luviana — Sistem Informasi Pemesanan Hotel (PHP + MySQL)
 
 Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pengguna: Admin dan Member
 
