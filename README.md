@@ -1,9 +1,8 @@
-<img width="1902" height="898" alt="Screenshot 2026-01-01 070847" src="https://github.com/user-attachments/assets/6581d220-7a32-44cc-b658-7a286e7eb046" />Hotel Luviana — Sistem Informasi Pemesanan Hotel (PHP + MySQL)
 
 Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pengguna: Admin dan Member
 
 ## Fitur Utama
-![Uploading Screenshot 2026-01-01 070847.png…]()
+<img width="1902" height="898" alt="Screenshot 2026-01-01 070847" src="https://github.com/user-attachments/assets/6581d220-7a32-44cc-b658-7a286e7eb046" />Hotel Luviana — Sistem Informasi Pemesanan Hotel (PHP + MySQL)
 
 
 - Halaman beranda berisi informasi hotel, daftar kamar & harga, galeri, dan kontak.
