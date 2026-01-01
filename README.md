@@ -5,10 +5,22 @@ Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pen
 <img width="1902" height="898" alt="Screenshot 2026-01-01 070847" src="https://github.com/user-attachments/assets/6581d220-7a32-44cc-b658-7a286e7eb046" />Hotel Luviana — Sistem Informasi Pemesanan Hotel (PHP + MySQL)
 
 
-- Halaman beranda berisi informasi hotel, daftar kamar & harga, galeri, dan kontak.
+Pada bagian atas halaman terdapat menu navigasi utama berupa :
+- **Beranda** → kembali ke halaman utama.
+- **Tentang Kami** → informasi profil/overview hotel.
+- **Kamar & Harga** → daftar tipe kamar dan harga.
+- **Restoran** → informasi layanan restoran.
+- **Galeri** → kumpulan foto hotel.
+- **Kontak Kami** → informasi kontak, alamat & social median hotel.
 
+Di sisi kanan navbar terdapat tombol **Login**.
+- Digunakan untuk masuk ke sistem sebagai **Admin** atau **Member**.
+- Tombol ini menjadi pintu masuk fitur yang memerlukan autentikasi, seperti dashboard admin/member.
 
 ### Member
+<img width="1919" height="701" alt="Screenshot 2026-01-01 071923" src="https://github.com/user-attachments/assets/5374340b-7c38-42a7-9094-0ab364f04fc0" />
+
+
 - Registrasi akun member (status awal **pending**).
 - Login member.
 - Kelola profil (nama & email).
@@ -20,6 +32,9 @@ Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pen
   - **Total biaya** = `jumlah_kamar × harga_per_malam × jumlah_malam`
 
 ### Admin
+<img width="1906" height="621" alt="Screenshot 2026-01-01 071501" src="https://github.com/user-attachments/assets/c2cb78da-92d9-4c5b-a0c9-b7d896b3833f" />
+
+
 - Login admin.
 - Dashboard admin:
   - Lihat daftar pemesanan.
