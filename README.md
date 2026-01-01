@@ -1,11 +1,8 @@
-# Create README.md inside extracted project and also provide a standalone copy for download.
 Hotel Luviana — Sistem Informasi Pemesanan Hotel (PHP + MySQL)
 
 Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pengguna: Admin dan Member
 
 ## Fitur Utama
-
-### Pengunjung (Landing Page)
 - Halaman beranda berisi informasi hotel, daftar kamar & harga, galeri, dan kontak.
 
 
@@ -31,16 +28,15 @@ Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pen
 - Verifikasi member:
   - Ubah status member: **pending / gagal verifikasi / berhasil verifikasi**.
 
-## Teknologi
+## Aplikasi yang digunakan
 - PHP (native)
-- MySQL / MariaDB
+- MySQ
 - HTML, CSS, JavaScript
-- CDN: FontAwesome, jQuery, OwlCarousel (dipakai di halaman beranda)
 
 ## Prasyarat
 - PHP 7.4+ (disarankan 8.x)
-- MySQL/MariaDB
-- Web server lokal: XAMPP / Laragon / WAMP
+- MySQ
+- Web server lokal: XAMPP
 
 ## Cara Menjalankan (Contoh: XAMPP)
 
