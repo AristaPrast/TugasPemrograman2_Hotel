@@ -7,7 +7,7 @@ Aplikasi web sederhana untuk simulasi pemesanan kamar hotel dengan dua peran pen
 
 ### Pengunjung (Landing Page)
 - Halaman beranda berisi informasi hotel, daftar kamar & harga, galeri, dan kontak.
-![Uploading image.png…]()
+
 
 ### Member
 - Registrasi akun member (status awal **pending**).
